@@ -1,14 +1,14 @@
-# alien
+# alien-win
 
-[![GitHub tag](https://img.shields.io/github/tag/eendroroy/alien.svg)](https://github.com/eendroroy/alien/tags)
+[![GitHub tag](https://img.shields.io/github/tag/eendroroy/alien-win.svg)](https://github.com/eendroroy/alien-win/tags)
 
-[![Contributors](https://img.shields.io/github/contributors/eendroroy/alien.svg)](https://github.com/eendroroy/alien/graphs/contributors)
-[![GitHub last commit (branch)](https://img.shields.io/github/last-commit/eendroroy/alien/master.svg)](https://github.com/eendroroy/alien)
-[![license](https://img.shields.io/github/license/eendroroy/alien.svg)](https://github.com/eendroroy/alien/blob/master/LICENSE)
-[![GitHub issues](https://img.shields.io/github/issues/eendroroy/alien.svg)](https://github.com/eendroroy/alien/issues)
-[![GitHub closed issues](https://img.shields.io/github/issues-closed/eendroroy/alien.svg)](https://github.com/eendroroy/alien/issues?q=is%3Aissue+is%3Aclosed)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/eendroroy/alien.svg)](https://github.com/eendroroy/alien/pulls)
-[![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/eendroroy/alien.svg)](https://github.com/eendroroy/alien/pulls?q=is%3Apr+is%3Aclosed)
+[![Contributors](https://img.shields.io/github/contributors/eendroroy/alien-win.svg)](https://github.com/eendroroy/alien-win/graphs/contributors)
+[![GitHub last commit (branch)](https://img.shields.io/github/last-commit/eendroroy/alien-win/master.svg)](https://github.com/eendroroy/alien-win)
+[![license](https://img.shields.io/github/license/eendroroy/alien-win.svg)](https://github.com/eendroroy/alien-win/blob/master/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/eendroroy/alien-win.svg)](https://github.com/eendroroy/alien-win/issues)
+[![GitHub closed issues](https://img.shields.io/github/issues-closed/eendroroy/alien-win.svg)](https://github.com/eendroroy/alien-win/issues?q=is%3Aissue+is%3Aclosed)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/eendroroy/alien-win.svg)](https://github.com/eendroroy/alien-win/pulls)
+[![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/eendroroy/alien-win.svg)](https://github.com/eendroroy/alien-win/pulls?q=is%3Apr+is%3Aclosed)
 
 This is an port of [alien](https://github.com/eendroroy/alien) theme for windows (on cygwin).
 
