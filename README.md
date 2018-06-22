@@ -25,22 +25,22 @@ Add the following line to your .zshrc depending on your zsh plugin manager
 
 ##### [antigen](https://github.com/zsh-users/antigen):
 
-    antigen theme eendroroy/alien alien
+    antigen theme eendroroy/alien-win alien-win
 
 ##### [zgen](https://github.com/tarjoilija/zgen):
 
-    zgen load eendroroy/alien
+    zgen load eendroroy/alien-win
 
 ##### [zplug](https://github.com/zplug/zplug):
 
-    zplug "eendroroy/alien"
+    zplug "eendroroy/alien-win"
 
 ##### [oh-my-zsh: Overriding and Adding Themes](https://github.com/robbyrussell/oh-my-zsh/wiki/Customization#overriding-and-adding-themes)
 
 ##### Manually clonning
 
 ```bash
-git clone https://github.com/eendroroy/alien.git
+git clone https://github.com/eendroroy/alien-win.git
 cd alien
 git submodule update --init --recursive
 ```
@@ -48,7 +48,7 @@ git submodule update --init --recursive
 Add the following line to your `~/.zshrc`
 
 ```bash
-source ~/alien/alien.zsh
+source ~/alien-win/alien-win.zsh
 ```
 
 ## Libraries Used
