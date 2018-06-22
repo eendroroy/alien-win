@@ -21,13 +21,4 @@ function alien_lprompt_complete() {
 %F{$color3}$(alien_ssh_client)%f%F{$color14}`alien_venv`%f%F{$color8}%B❱%b%f '
   fi
   zle && zle reset-prompt
-  async_stop_worker lprompt -n
-}
-
-
-alien_async_prompt(){
-  async_init
-  async_start_worker lprompt -n
-  async_register_callback lprompt alien_lprompt_complete
-  async_job lprompt alien_dummy
 }
