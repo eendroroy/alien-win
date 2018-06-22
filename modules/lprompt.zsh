@@ -1,7 +1,5 @@
 #!/usr/bin/env zsh
 
-function alien_dummy(){}
-
 function alien_lprompt_complete() {
   if [[ $(alien_is_git) == 1 ]]; then
     PROMPT='
