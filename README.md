@@ -10,7 +10,7 @@
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/eendroroy/alien-win.svg)](https://github.com/eendroroy/alien-win/pulls)
 [![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/eendroroy/alien-win.svg)](https://github.com/eendroroy/alien-win/pulls?q=is%3Apr+is%3Aclosed)
 
-This is an port of [alien](https://github.com/eendroroy/alien) theme for windows (on cygwin).
+This is a port of [alien](https://github.com/eendroroy/alien) theme for windows (on cygwin).
 
 **For details see the original [readme](https://github.com/eendroroy/alien/README.md)
 
@@ -41,7 +41,7 @@ Add the following line to your .zshrc depending on your zsh plugin manager
 
 ```bash
 git clone https://github.com/eendroroy/alien-win.git
-cd alien
+cd alien-win
 git submodule update --init --recursive
 ```
 
